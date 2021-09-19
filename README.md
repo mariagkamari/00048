@@ -8,7 +8,7 @@
 
 ## ΠΕΡΙΕΧΟΜΕΝΑ 
 - **[ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%B5%CF%83-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%B5%CF%83)**<br/>
-- **[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/MARIOS-ST/00106/blob/cb52c0271beebcb289c2f4f641263c1249566ccf/%CE%A4%CE%95%CE%A7%CE%9D%CE%99%CE%9A%CE%97%20%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91_00106.pdf)**<br/>
+- **[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/mariagkamari/00048/blob/ee7e2cf1e7e49bed8c4d31217182790fecfa3c6b/%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%B7%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%B1-00048.pdf)**<br/>
 - **[ΠΡΟΒΛΗΜΑ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CF%80%CF%81%CE%BF%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1)**<br/>
 - **[ΕΓΚΑΤΑΣΤΑΣΗ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%B1%CF%83%CE%B7)**<br/>
 
@@ -22,7 +22,7 @@ complete) πιο συγκεκριμένα :
 προσομοίωση άλλων προβλημάτων και να ελέγξουμε γρήγορα ότι η λύση 
 είναι αληθής. <br>
 ## ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ 
-[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/MARIOS-ST/00106/blob/cb52c0271beebcb289c2f4f641263c1249566ccf/%CE%A4%CE%95%CE%A7%CE%9D%CE%99%CE%9A%CE%97%20%CE%91%CE%9D%CE%91%CE%A6%CE%9F%CE%A1%CE%91_00106.pdf)
+[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](hhttps://github.com/mariagkamari/00048/blob/ee7e2cf1e7e49bed8c4d31217182790fecfa3c6b/%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%B7%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%B1-00048.pdf)
 ## ΠΡΟΒΛΗΜΑ
 Στην συγκεκριμένη εργασία εξάμηνου καλούμαστε να υλοποιήσουμε τον κώδικα για 
 την επίλυση ενός προβλήματος για εξετάσεις ακαδημαϊκού εξαμήνου ώστε το 
