@@ -48,5 +48,5 @@ m, βρίσκουν έναν τρόπο χρωματισμού των κορυφ
  <br>
 
 ## SETUP
-Θα πρέπει να κατεβάσετε και αποθηκεύσετε το [φάκελο](https://github.com/MARIOS-ST/00106/tree/main/main/java) .<br> 
+Θα πρέπει να κατεβάσετε και αποθηκεύσετε το [φάκελο](https://github.com/mariagkamari/00048/tree/main/src/main/java/com/x/scheduling) .<br> 
 Μπορείται να τρέξετε σε όποιοδήποτε πρόγραμμα θέλετε δημιουργώντας νέο project <br>
