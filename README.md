@@ -1,4 +1,4 @@
-# ΑΛΓΟΡΙΙΜΟΙ ΚΑΙ ΠΡΟΧΩΡΗΜΕΝΕΣ ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ 
+# ΑΛΓΟΡΙΘΜΟΙ ΚΑΙ ΠΡΟΧΩΡΗΜΕΝΕΣ ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ 
 # ΓΚΑΜΑΡΗ ΜΑΡΙΑ  ΑΜ:00048
 
 # ΑΛΓΟΡΙΘΜΟΙ ΚΑΙ ΠΡΟΧΩΡΗΜΕΝΕΣ ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ 
@@ -10,7 +10,7 @@
 - **[ΕΙΣΑΓΩΓΗ](https://github.com/mariagkamari/00048#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7)**<br/>
 - **[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](https://github.com/mariagkamari/00048/blob/ee7e2cf1e7e49bed8c4d31217182790fecfa3c6b/%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%B7%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%B1-00048.pdf)**<br/>
 - **[ΤΡΟΠΟΙ ΕΠΙΛΥΣΗΣ](https://github.com/mariagkamari/00048/blob/main/README.md#%CF%84%CF%81%CE%BF%CF%80%CE%BF%CE%B9-%CE%B5%CF%80%CE%B9%CE%BB%CF%85%CF%83%CE%B7%CF%83)**<br/>
-- **[ΕΓΚΑΤΑΣΤΑΣΗ](https://github.com/MARIOS-ST/00106/blob/main/README.md#%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%B1%CF%83%CE%B7)**<br/>
+- **[SETUP](https://github.com/mariagkamari/00048/blob/main/README.md#setup)**<br/>
 
 ## ΕΙΣΑΓΩΓΗ 
 Το πρόβλημα που μας δόθηκε να λύσουμε, αφορά τις εξετάσεις 
