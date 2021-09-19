@@ -22,7 +22,7 @@ complete) πιο συγκεκριμένα :
 προσομοίωση άλλων προβλημάτων και να ελέγξουμε γρήγορα ότι η λύση 
 είναι αληθής. <br>
 ## ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ 
-[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](hhttps://github.com/mariagkamari/00048/blob/ee7e2cf1e7e49bed8c4d31217182790fecfa3c6b/%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%B7%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%B1-00048.pdf)
+[ΤΕΧΝΙΚΗ ΑΝΑΦΟΡΑ](hhttps://github.com/mariagkamari/00048/blob/ee7e2cf1e7e49bed8c4d31217182790fecfa3c6b/%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%B7%20%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%B1-00048.pdf) <br>
 ## ΠΡΟΒΛΗΜΑ
 Στην συγκεκριμένη εργασία εξάμηνου καλούμαστε να υλοποιήσουμε τον κώδικα για 
 την επίλυση ενός προβλήματος για εξετάσεις ακαδημαϊκού εξαμήνου ώστε το 
